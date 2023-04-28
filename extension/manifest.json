@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Summarize App",
+  "description": "Extension for summarizing the main idea of the website, this can be useful, when you need a brief description on what was your previous project was about, what technologies you were using, while building it",
+  "version": "1.0",
+  "action": {"default_popup": "index.html"},
+  "permissions": ["activeTab"],
+  "host_permissions": ["http://*/*"]
+}
